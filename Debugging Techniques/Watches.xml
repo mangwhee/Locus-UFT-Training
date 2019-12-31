@@ -1,0 +1,9 @@
+﻿<Properties>
+  <WatchEntry0 value="ProductPrice" />
+  <WatchEntry1 value="ProductFee" />
+  <WatchEntry2 value="TotalPrice" />
+  <WatchEntry3 value="a" />
+  <WatchEntry4 value="b" />
+  <WatchEntry5 value="PlusResults" />
+  <WatchEntry6 value="Plus" />
+</Properties>
