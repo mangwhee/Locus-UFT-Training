@@ -4,7 +4,7 @@ SystemUtil.Run "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe","ht
 
 ' ----- Import Excel File into RunTime DataTable -----
 
-datatable.ImportSheet "D:\Automation_HP\Test\Automation_Training\Login.xlsx","Sheet1","Global"
+datatable.ImportSheet "C:\Automation_HP\Test\Automation_Training\Login.xlsx","Sheet1","Global"
 
 ' ----- Count Row in Data Table -----
 
