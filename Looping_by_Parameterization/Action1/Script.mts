@@ -16,3 +16,4 @@ LocusWebElement "Google","Advantage Shopping","menuUserSVGPath"
 LocusWebEdit "Google","Advantage Shopping","username",Datatable("UserName","Global")
 LocusWebEdit "Google","Advantage Shopping","password",Datatable("Password","Global")
 LocusWebbutton "Google","Advantage Shopping","sign_in_btnundefined"
+print "login success"
